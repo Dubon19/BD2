@@ -1,0 +1,14 @@
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.vbproj.AssemblyReference.cache
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.vbproj.SuggestedBindingRedirects.cache
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.Frm_Encabezado.resources
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.Resources.resources
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.vbproj.GenerateResource.cache
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.vbproj.CoreCompileInputs.cache
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\bin\Debug\El_Mercadito.exe.config
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\bin\Debug\El_Mercadito.exe
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\bin\Debug\El_Mercadito.pdb
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\bin\Debug\El_Mercadito.xml
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.exe
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.xml
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.pdb
+C:\Users\usuARIO\OneDrive\Documents\UNIVAVLLE\ElMercasdito\El_Mercadito\El_Mercadito\obj\Debug\El_Mercadito.Frm_Principal.resources
